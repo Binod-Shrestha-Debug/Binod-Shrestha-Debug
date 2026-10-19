@@ -34,27 +34,89 @@
 
 ---
 
-## 👨‍💻 About Me
+<!-- =============== ABOUT ME =============== -->
+
+<h2 align="center">🚀 About Me</h2>
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="65%" valign="middle">
 
-Hello! I'm **Binod Shrestha**, a Data Analyst and BCA graduate from Tribhuvan University.
+<h3>👋 Hello, I'm Binod Shrestha!</h3>
 
-I currently work as a Data Analyst, using my analytical skills and technical knowledge to work with data and develop my understanding of business problems.
+I'm a **Data Analyst** and a BCA graduate from Tribhuvan University, passionate about understanding data and turning it into meaningful insights.
 
-I enjoy exploring datasets, writing Python code, working with SQL databases, and finding ways to make information easier to understand.
+In today's world, data plays an important role in business decisions. I enjoy exploring datasets, identifying patterns, understanding trends, and finding useful information that helps businesses make better decisions.
 
-I'm passionate about continuous learning and improving my ability to turn data into useful insights.
+For me, data analysis is more than working with numbers. It's about asking the right questions, understanding what the data tells us, and communicating findings in a clear and practical way.
 
-**What I focus on:**
+### 💼 What I Do as a Data Analyst
 
-- 📊 Understanding data and identifying patterns
-- 🐍 Using Python for programming and analytical tasks
-- 🗄️ Working with SQL and relational databases
-- 💡 Solving problems through logical thinking
-- 📈 Improving data reporting and visualization skills
+- 📊 **Analyze Data:** Explore datasets to identify trends, patterns, and useful insights.
+- 🧹 **Prepare Data:** Work toward improving data quality by organizing information and identifying inconsistencies.
+- 🐍 **Use Python:** Apply programming concepts to data-related tasks and problem-solving.
+- 🗄️ **Work with SQL:** Retrieve, filter, organize, and analyze information stored in databases.
+- 💡 **Support Decisions:** Help transform data into information that people can understand and use.
+- 📈 **Communicate Insights:** Present findings clearly to support better understanding and decision-making.
+
+### 🌱 My Professional Journey
+
+I currently work as a **Data Analyst** and continue to strengthen my technical and analytical skills through practical experience and continuous learning.
+
+My interests include data analytics, business intelligence, reporting, and data visualization. I enjoy learning new tools, solving problems, and discovering better ways to work with data.
+
+### 🎯 My Goal
+
+To grow as a data professional by combining analytical thinking, technical skills, and business understanding to solve real-world problems.
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://github.com/Binod-Shrestha-Debug/Binod-Shrestha-Debug/raw/main/assets/binod.png" width="240" alt="Binod Shrestha - Data Analyst"/>
+
+<br/><br/>
+
+<strong>BINOD SHRESTHA</strong>
+
+**Data Analyst**
+
+📍 Nepal 🇳🇵
+
+<br/>
+
+<a href="https://github.com/Binod-Shrestha-Debug">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/binod-shrestha-3b6103439/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 💡 My Approach to Data
+
+| 🔍 Explore | 🧹 Prepare | 📊 Analyze | 💡 Communicate |
+|:---:|:---:|:---:|:---:|
+| Understand the question | Organize the data | Find patterns | Explain insights |
+
+<br/>
+
+*“Good data analysis turns information into understanding and understanding into better decisions.”*
+
+</div>
+
+<!-- =============== END ABOUT ME =============== -->
+
 
 </td>
 <td width="35%" align="center" valign="middle">
