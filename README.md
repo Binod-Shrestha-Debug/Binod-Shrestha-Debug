@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- CUSTOM BANNER -->
-<img src="./assets/binod_banner.png" width="100%" alt="Binod Shrestha | Data Analyst Banner"/>
+<img src="./assets/banner_binod.png" width="100%" alt="Binod Shrestha | Data Analyst Banner"/>
 
 <br/>
 
@@ -59,7 +59,7 @@ I'm passionate about continuous learning and improving my ability to turn data i
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="./assets/binod-profile.jpg" width="220" alt="Binod Shrestha - Data Analyst"/>
+<img src="./assets/binod.png" width="220" alt="Binod Shrestha - Data Analyst"/>
 
 <br/><br/>
 
@@ -115,12 +115,6 @@ Data Analyst
 </a>
 
 </div>
-
-### 🐍 Python Basics
-
-A collection of Python exercises covering variables, data types, conditional statements, loops, and fundamental programming concepts.
-
-**Skills demonstrated:** Python fundamentals, logical thinking, and problem-solving.
 
 ### 🧮 Calculator Project
 
