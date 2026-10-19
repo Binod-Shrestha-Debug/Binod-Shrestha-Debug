@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**Binod-Shrestha-Debug/Binod-Shrestha-Debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Binod Shrestha</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Backend Developer | Python | Django | SQL</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Building projects and learning new technologies every day.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,git,github,vscode" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BCA Graduate from Tribhuvan University
+- 🐍 Learning Python through practical projects
+- 🌐 Practicing backend development with Django
+- 🗄️ Improving my SQL and database skills
+- 🚀 Building projects and improving my coding skills
+
+## 🛠️ Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,git,github,vscode" />
+</p>
+
+## 📂 My GitHub Projects
+
+Explore my repositories:
+
+[View All My Projects](https://github.com/Binod-Shrestha-Debug?tab=repositories)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Binod-Shrestha-Debug&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binod-Shrestha-Debug&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
