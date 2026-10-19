@@ -42,13 +42,13 @@
 <tr>
 <td width="65%" valign="middle">
 
-<h3>👋 Hello, I'm Binod Shrestha!</h3>
+<h3 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&width=500&lines=%F0%9F%91%8B+Hello%2C+I'm+Binod+Shrestha!;I'm+a+Data+Analyst;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
+</h3>
 
-I'm a **Data Analyst** and a BCA graduate from Tribhuvan University, passionate about understanding data and turning it into meaningful insights.
-
-In today's world, data plays an important role in business decisions. I enjoy exploring datasets, identifying patterns, understanding trends, and finding useful information that helps businesses make better decisions.
-
-For me, data analysis is more than working with numbers. It's about asking the right questions, understanding what the data tells us, and communicating findings in a clear and practical way.
+I'm a **Data Analyst** and a BCA graduate from **Tribhuvan University**. I enjoy exploring data, identifying trends, and turning raw information into meaningful insights that support better business decisions..
 
 ### 💼 What I Do as a Data Analyst
 
@@ -117,20 +117,17 @@ To grow as a data professional by combining analytical thinking, technical skill
 
 <!-- =============== END ABOUT ME =============== -->
 
-
 </td>
 <td width="35%" align="center" valign="middle">
 
 <img src="./assets/binod.png" width="220" alt="Binod Shrestha - Data Analyst"/>
 
 <br/><br/>
-
 **BINOD SHRESTHA**
 
 Data Analyst
 
-📍 Nepal 🇳🇵
-
+<p>📊 Data Analyst | 🇳🇵 Nepal</p>
 </td>
 </tr>
 </table>
@@ -155,13 +152,68 @@ Data Analyst
 
 </div>
 
-| Category | Technologies and skills |
-|---|---|
-| Programming | Python |
-| Databases | SQL, MySQL, SQLite, PostgreSQL |
-| Data Analysis | Data exploration, analytical problem-solving |
-| Development Tools | VS Code, Git, GitHub |
-| Professional Interests | Reporting, data visualization, business intelligence |
+
+## 🛠️ Technical Skills
+
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies and Skills</th>
+  </tr>
+  <tr>
+    <td>💻 Programming</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td>🗄️ Databases & SQL</td>
+    <td>SQL, PostgreSQL, MySQL, SQLite</td>
+  </tr>
+  <tr>
+    <td>🐍 Python Libraries</td>
+    <td>Pandas, NumPy, Matplotlib, Seaborn</td>
+  </tr>
+  <tr>
+    <td>📊 Data Analysis</td>
+    <td>Data Cleaning, Data Exploration, Exploratory Data Analysis (EDA)</td>
+  </tr>
+  <tr>
+    <td>⚙️ Data Processing</td>
+    <td>Filtering, Sorting, Grouping, Aggregation, Joins</td>
+  </tr>
+  <tr>
+    <td>📈 Data Visualization</td>
+    <td>Charts, Graphs, Trend Analysis, Dashboard Fundamentals</td>
+  </tr>
+  <tr>
+    <td>📑 Spreadsheets</td>
+    <td>Microsoft Excel, Formulas, PivotTables</td>
+  </tr>
+  <tr>
+    <td>📉 Business Intelligence</td>
+    <td>Power BI, KPI Reporting, Business Insights</td>
+  </tr>
+  <tr>
+    <td>🧰 Development Tools</td>
+    <td>VS Code, Jupyter Notebook</td>
+  </tr>
+  <tr>
+    <td>🔗 Version Control</td>
+    <td>Git, GitHub</td>
+  </tr>
+  <tr>
+    <td>🧠 Core Concepts</td>
+    <td>Relational Databases, Primary Keys, Foreign Keys, Database Joins</td>
+  </tr>
+  <tr>
+    <td>🎯 Professional Skills</td>
+    <td>Analytical Thinking, Problem-Solving, Attention to Detail</td>
+  </tr>
+  <tr>
+    <td>🚀 Areas of Interest</td>
+    <td>Business Intelligence, Reporting, Data-Driven Decision-Making</td>
+  </tr>
+</table>
+
 
 ---
 
@@ -177,12 +229,6 @@ Data Analyst
 </a>
 
 </div>
-
-### 🧮 Calculator Project
-
-A practical project demonstrating how programming logic can be used to build a calculator application.
-
-**Skills demonstrated:** Programming fundamentals and application logic.
 
 <div align="center">
 
@@ -251,20 +297,6 @@ Present findings clearly and accurately.
 </td>
 </tr>
 </table>
-
----
-
-## 🌱 Continuous Development
-
-I'm focused on strengthening my analytical skills and developing practical solutions through data.
-
-- Improve Python and SQL proficiency.
-- Build projects around real-world datasets.
-- Develop data cleaning and visualization skills.
-- Improve reporting and business intelligence capabilities.
-- Communicate analytical findings more effectively.
-
----
 
 ## 🤝 Let's Connect
 
