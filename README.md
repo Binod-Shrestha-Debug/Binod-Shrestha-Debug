@@ -91,14 +91,6 @@ I'm a **BCA graduate from Tribhuvan University**, building my career in data ana
 
 </div>
 
-### 📌 Current Learning Goals
-
-- Strengthen Python programming fundamentals.
-- Practice SQL queries, joins, and database relationships.
-- Learn data cleaning and analysis with Pandas.
-- Build projects using real-world datasets.
-- Create interactive dashboards with Power BI.
-
 <div align="center">
 
 <a href="https://github.com/Binod-Shrestha-Debug?tab=repositories">
