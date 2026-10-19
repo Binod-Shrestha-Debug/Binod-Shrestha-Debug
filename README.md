@@ -1,106 +1,144 @@
 
-<!-- ==================================================
-     BINOD SHRESTHA | DATA ANALYST PORTFOLIO
-=================================================== -->
+<!-- =====================================================
+     BINOD SHRESTHA | DATA ANALYST 
+     GitHub: Binod-Shrestha-Debug
+====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:164E63,100:0891B2&text=BINOD%20SHRESTHA&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20PYTHON%20%7C%20SQL&descSize=17&descColor=CFFAFE&descAlignY=60" />
+<!-- CUSTOM BANNER -->
+<img src="./assets/binod_banner.png" width="100%" alt="Binod Shrestha | Data Analyst Banner"/>
 
 <br/>
-
-<img src="./assets/binod-profile.jpg" width="165" alt="Binod Shrestha" />
 
 # Binod Shrestha
 
 ### Data Analyst | Python | SQL
 
-*Making data easier to understand and useful for better decisions.*
+*Turning data into clear insights and better decisions.*
 
 <br/>
 
 <a href="https://github.com/Binod-Shrestha-Debug">
-  <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/binod-shrestha-3b6103439/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Binod-Shrestha-Debug&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Hello! I'm Binod, a Data Analyst with a BCA degree from Tribhuvan University.
+<table>
+<tr>
+<td width="65%" valign="top">
 
-I currently work as a **Data Analyst**, where I focus on developing my analytical skills and using data to understand patterns, answer questions, and support informed decision-making.
+Hello! I'm **Binod Shrestha**, a Data Analyst and BCA graduate from Tribhuvan University.
 
-I enjoy working with Python and SQL, exploring datasets, solving problems, and continuously improving the way I analyze and communicate information.
+I currently work as a Data Analyst, using my analytical skills and technical knowledge to work with data and develop my understanding of business problems.
 
-I believe good data analysis is not just about numbers. It is about understanding what the data means and explaining it clearly.
+I enjoy exploring datasets, writing Python code, working with SQL databases, and finding ways to make information easier to understand.
 
-- 💼 **Current role:** Data Analyst
-- 🎓 **Education:** Bachelor of Computer Applications (BCA)
-- 🐍 **Programming:** Python
-- 🗄️ **Database skills:** SQL
-- 📊 **Interests:** Data analysis, reporting, and business intelligence
-- 🌱 **Focus:** Improving analytical skills and building practical projects
+I'm passionate about continuous learning and improving my ability to turn data into useful insights.
+
+**What I focus on:**
+
+- 📊 Understanding data and identifying patterns
+- 🐍 Using Python for programming and analytical tasks
+- 🗄️ Working with SQL and relational databases
+- 💡 Solving problems through logical thinking
+- 📈 Improving data reporting and visualization skills
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="./assets/binod-profile.jpg" width="220" alt="Binod Shrestha - Data Analyst"/>
+
+<br/><br/>
+
+**BINOD SHRESTHA**
+
+Data Analyst
+
+📍 Nepal 🇳🇵
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 <div align="center">
 
-| Python | SQL | Git | GitHub | VS Code |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/> | <img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL"/> | <img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/> | <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/> | <img src="https://skillicons.dev/icons?i=vscode" width="42" alt="VS Code"/> |
+### Programming
+
+<img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=light" alt="MySQL, SQLite and PostgreSQL"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub and VS Code"/>
 
 </div>
 
-**Areas of interest**
-
-- Writing SQL queries and working with relational databases
-- Using Python to solve problems and work with data
-- Exploring datasets to identify patterns
-- Learning data cleaning, visualization, and reporting
-- Improving version control and project documentation
+| Category | Technologies and skills |
+|---|---|
+| Programming | Python |
+| Databases | SQL, MySQL, SQLite, PostgreSQL |
+| Data Analysis | Data exploration, analytical problem-solving |
+| Development Tools | VS Code, Git, GitHub |
+| Professional Interests | Reporting, data visualization, business intelligence |
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Binod-Shrestha-Debug/Python-Basics">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Binod-Shrestha-Debug&repo=Python-Basics&theme=tokyonight&hide_border=true" alt="Python Basics"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Binod-Shrestha-Debug&repo=Python-Basics&theme=tokyonight&hide_border=true" alt="Python Basics"/>
 </a>
 <a href="https://github.com/Binod-Shrestha-Debug/calculator_project">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Binod-Shrestha-Debug&repo=calculator_project&theme=tokyonight&hide_border=true" alt="Calculator Project"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Binod-Shrestha-Debug&repo=calculator_project&theme=tokyonight&hide_border=true" alt="Calculator Project"/>
 </a>
 
 </div>
 
-### Python Basics
+### 🐍 Python Basics
 
-A collection of Python practice exercises covering programming fundamentals, conditions, loops, data types, and problem-solving.
+A collection of Python exercises covering variables, data types, conditional statements, loops, and fundamental programming concepts.
 
-### Calculator Project
+**Skills demonstrated:** Python fundamentals, logical thinking, and problem-solving.
 
-A practical programming project that demonstrates calculator functionality and the application of programming logic.
+### 🧮 Calculator Project
+
+A practical project demonstrating how programming logic can be used to build a calculator application.
+
+**Skills demonstrated:** Programming fundamentals and application logic.
 
 <div align="center">
 
 <a href="https://github.com/Binod-Shrestha-Debug?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
 </a>
 
 </div>
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -109,44 +147,93 @@ A practical programming project that demonstrates calculator functionality and t
 
 <br/><br/>
 
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Binod-Shrestha-Debug&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Binod-Shrestha-Debug&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## What I'm Working Toward
+## 📈 My Approach to Data Analysis
 
-I want to keep growing as a Data Analyst by strengthening my technical knowledge, gaining practical experience, and learning how to communicate insights effectively.
+<table>
+<tr>
+<td align="center" width="25%">
 
-My ongoing development includes:
+### 🔍
 
-- Improving Python and SQL skills
-- Working on meaningful data-related projects
-- Learning data cleaning and visualization tools
-- Developing stronger analytical and problem-solving skills
+**Understand**
+
+Identify the question and understand the data.
+
+</td>
+<td align="center" width="25%">
+
+### 🧹
+
+**Prepare**
+
+Check data quality and organize information.
+
+</td>
+<td align="center" width="25%">
+
+### 📊
+
+**Analyze**
+
+Explore patterns and investigate findings.
+
+</td>
+<td align="center" width="25%">
+
+### 💡
+
+**Communicate**
+
+Present findings clearly and accurately.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Let's Connect
+## 🌱 Continuous Development
 
-I'm happy to connect with people who work in data analytics, business intelligence, and technology, and to learn from others in the field.
+I'm focused on strengthening my analytical skills and developing practical solutions through data.
+
+- Improve Python and SQL proficiency.
+- Build projects around real-world datasets.
+- Develop data cleaning and visualization skills.
+- Improve reporting and business intelligence capabilities.
+- Communicate analytical findings more effectively.
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
+I'm always happy to connect with people in data analytics, business intelligence, and technology.
+
+<br/>
+
 <a href="https://github.com/Binod-Shrestha-Debug">
-  <img src="https://img.shields.io/badge/GitHub-Binod--Shrestha--Debug-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
+
 <a href="https://www.linkedin.com/in/binod-shrestha-3b6103439/">
-  <img src="https://img.shields.io/badge/LinkedIn-My%20Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
 </a>
 
 <br/><br/>
 
-**Learning continuously. Analyzing thoughtfully. Growing professionally.**
+### Learning Continuously. Analyzing Thoughtfully. Growing Professionally.
 
-*Nepal 🇳🇵 · Data Analytics · Continuous Learning*
+*Nepal 🇳🇵 · Data Analytics · Technology*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0891B2,100:0F172A" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0891B2,50:164E63,100:020617&text=THANK%20YOU%20FOR%20VISITING&fontSize=20&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Thank you footer"/>
 
 </div>
