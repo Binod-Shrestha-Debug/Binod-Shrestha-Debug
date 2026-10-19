@@ -1,4 +1,18 @@
 
+<div align="center">
+
+# Binod Shrestha
+
+### Data Analyst | Python | SQL
+
+Turning raw data into meaningful insights and better decisions.
+
+[GitHub Repositories](https://github.com/Binod-Shrestha-Debug?tab=repositories)
+·
+[LinkedIn](https://www.linkedin.com/in/binod-shrestha-3b6103439/)
+
+</div>
+
 <!-- ==================== HERO SECTION ==================== -->
 
 <div align="center">
