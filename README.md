@@ -1,68 +1,52 @@
 
-<div align="center">
-
-# Binod Shrestha
-
-### Data Analyst | Python | SQL
-
-Turning raw data into meaningful insights and better decisions.
-
-[GitHub Repositories](https://github.com/Binod-Shrestha-Debug?tab=repositories)
-·
-[LinkedIn](https://www.linkedin.com/in/binod-shrestha-3b6103439/)
-
-</div>
-
-<!-- ==================== HERO SECTION ==================== -->
+<!-- =====================================================
+     BINOD SHRESTHA | DATA ANALYST PROFILE
+     Repository: Binod-Shrestha-Debug
+====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080D1A,45:102A43,100:087E8B&text=BINOD%20SHRESTHA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20PYTHON%20%7C%20SQL&descSize=17&descColor=67E8F9&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080D1A,45:123456,100:0891B2&text=BINOD%20SHRESTHA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20PYTHON%20%7C%20SQL&descSize=18&descColor=67E8F9&descAlignY=58&animation=fadeIn" />
 
-<br/>
+<p>
+  <a href="https://github.com/Binod-Shrestha-Debug">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/binod-shrestha-3b6103439/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://github.com/Binod-Shrestha-Debug">
-<img src="https://img.shields.io/badge/GitHub-Binod--Shrestha--Debug-111827?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/binod-shrestha-3b6103439/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+### Turning Data Into Meaningful Insights
 
-<br/><br/>
-
-**I turn data into insights that support better decisions.**
-
-*Python · SQL · Data Analysis · Visualization*
+*Exploring data. Finding patterns. Supporting better decisions.*
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ==================== -->
+## 01 / PROFILE
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-## ABOUT ME
+### Hello, I'm Binod 👋
 
-I'm **Binod Shrestha**, a BCA graduate from Tribhuvan University with an interest in data analytics and analytical problem-solving.
+I am a **BCA graduate from Tribhuvan University** developing my skills in data analytics, SQL, Python, and analytical problem-solving.
 
-I enjoy learning how to work with data, query databases, identify patterns, and present information clearly.
+I enjoy working through programming exercises, exploring database concepts, and building practical projects as I grow toward a career in data analytics.
 
-- Focused on Python and SQL
-- Practicing programming through projects
-- Developing analytical and problem-solving skills
-- Building a practical data analytics portfolio
+**My approach:** Learn the fundamentals, work with real data, and communicate findings clearly.
 
 </td>
-<td width="40%" valign="middle" align="center">
+<td width="35%" valign="middle" align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode&perline=3" />
 
 <br/><br/>
 
-**DATA · LOGIC · INSIGHTS**
+**DATA · ANALYSIS · INSIGHTS**
 
 </td>
 </tr>
@@ -70,70 +54,66 @@ I enjoy learning how to work with data, query databases, identify patterns, and 
 
 ---
 
-<!-- ==================== TOOLKIT ==================== -->
-
-## TECHNICAL TOOLKIT
+## 02 / TECHNICAL TOOLKIT
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Programming
+### PROGRAMMING
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-</td>
-<td width="33%" valign="top">
-
-### Databases
+### DATABASES
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Development
+### DATA ANALYSIS
+
+Python fundamentals · SQL queries · Data exploration
+
+### DEVELOPER TOOLS
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 
 </td>
 </tr>
 </table>
 
-*Add Pandas, NumPy, Excel, Power BI, and visualization tools as you learn and become comfortable using them.*
+*Add Pandas, NumPy, Excel, Power BI, and visualization libraries when you have the skills to use them confidently.*
 
 ---
 
-<!-- ==================== FEATURED WORK ==================== -->
+## 03 / FEATURED PROJECTS
 
-## SELECTED WORK
+<div align="center">
 
-<p>
 <a href="https://github.com/Binod-Shrestha-Debug/Python-Basics">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Binod-Shrestha-Debug&repo=Python-Basics&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Binod-Shrestha-Debug&repo=Python-Basics&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Binod-Shrestha-Debug/calculator_project">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Binod-Shrestha-Debug&repo=calculator_project&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Binod-Shrestha-Debug&repo=calculator_project&theme=tokyonight&hide_border=true" />
 </a>
-</p>
+
+</div>
 
 <div align="center">
 
 <a href="https://github.com/Binod-Shrestha-Debug?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-087E8B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-087E8B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-
-## GITHUB ANALYTICS
+## 04 / GITHUB ANALYTICS
 
 <div align="center">
 
@@ -149,40 +129,38 @@ I enjoy learning how to work with data, query databases, identify patterns, and 
 
 ---
 
-<!-- ==================== CURRENT DIRECTION ==================== -->
-
-## WHAT I'M WORKING TOWARD
+## 05 / MY LEARNING ROADMAP
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 / Python**
+### 01 — PYTHON
 
-Strengthening programming fundamentals and learning data manipulation.
+Strengthen programming fundamentals and develop skills for working with data.
 
 </td>
 <td width="50%" valign="top">
 
-**02 / SQL**
+### 02 — SQL
 
-Practicing joins, relationships, filtering, aggregation, and querying.
+Practice filtering, joins, aggregation, relationships, and database querying.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 / Data Analysis**
+### 03 — DATA ANALYSIS
 
-Working toward projects that explore real datasets and uncover useful patterns.
+Progress toward data cleaning, exploratory analysis, and practical datasets.
 
 </td>
 <td width="50%" valign="top">
 
-**04 / Visualization**
+### 04 — VISUALIZATION
 
-Learning to communicate findings through clear charts and reports.
+Learn to communicate patterns and findings through clear charts and reports.
 
 </td>
 </tr>
@@ -190,9 +168,22 @@ Learning to communicate findings through clear charts and reports.
 
 ---
 
+## 06 / WHAT'S NEXT
+
+My goal is to build a portfolio of practical data projects that demonstrate:
+
+- Clear problem definitions
+- Reliable data analysis
+- Well-documented code
+- Meaningful findings and recommendations
+
+---
+
 <div align="center">
 
-### LET THE DATA TELL THE STORY.
+### THANK YOU FOR VISITING
+
+**Learning continuously. Building practically. Growing through data.**
 
 <a href="https://github.com/Binod-Shrestha-Debug?tab=repositories">
 <img src="https://img.shields.io/badge/VIEW%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=white" />
@@ -200,10 +191,8 @@ Learning to communicate findings through clear charts and reports.
 
 <br/><br/>
 
-<sub>Built with curiosity. Improved through practice.</sub>
+<sub>BINOD SHRESTHA · DATA ANALYTICS PORTFOLIO</sub>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:087E8B,100:080D1A" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0891B2,100:080D1A" />
 
 </div>
