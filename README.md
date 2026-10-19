@@ -36,7 +36,7 @@
 
 <!-- =============== ABOUT ME =============== -->
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="left">🚀 About Me</h2>
 
 <table>
 <tr>
@@ -80,9 +80,6 @@ To grow as a data professional by combining analytical thinking, technical skill
 <strong>BINOD SHRESTHA</strong>
 
 **Data Analyst**
-
-📍 Nepal 🇳🇵
-
 <br/>
 
 <a href="https://github.com/Binod-Shrestha-Debug">
@@ -111,29 +108,6 @@ To grow as a data professional by combining analytical thinking, technical skill
 
 <br/>
 
-*“Good data analysis turns information into understanding and understanding into better decisions.”*
-
-</div>
-
-<!-- =============== END ABOUT ME =============== -->
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="./assets/binod.png" width="220" alt="Binod Shrestha - Data Analyst"/>
-
-<br/><br/>
-**BINOD SHRESTHA**
-
-Data Analyst
-
-<p>📊 Data Analyst | 🇳🇵 Nepal</p>
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -151,10 +125,6 @@ Data Analyst
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub and VS Code"/>
 
 </div>
-
-
-## 🛠️ Technical Skills
-
 <table>
   <tr>
     <th align="left">Category</th>
