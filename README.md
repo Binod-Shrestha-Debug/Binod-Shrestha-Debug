@@ -189,13 +189,21 @@ To grow as a data professional by combining analytical thinking, technical skill
 
 ## 🚀 Featured Projects
 
+
 <div align="center">
 
+<a href="https://github.com/Binod-Shrestha-Debug/sql-sales-management-system">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Binod-Shrestha-Debug&repo=sql-sales-management-system&theme=tokyonight&hide_border=true" alt="SQL Sales Management System"/>
+</a>
 <a href="https://github.com/Binod-Shrestha-Debug/Python-Basics">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Binod-Shrestha-Debug&repo=Python-Basics&theme=tokyonight&hide_border=true" alt="Python Basics"/>
 </a>
-<a href="https://github.com/Binod-Shrestha-Debug/calculator_project">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Binod-Shrestha-Debug&repo=calculator_project&theme=tokyonight&hide_border=true" alt="Calculator Project"/>
+
+<a href="https://github.com/Binod-Shrestha-Debug/Machine_Learning_Brain-Tumor_Detection">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Binod-Shrestha-Debug&repo=Machine_Learning_Brain-Tumor_Detection&theme=tokyonight&hide_border=true" alt="Machine Learning Brain Tumor Detection"/>
+</a>
+<a href="https://github.com/Binod-Shrestha-Debug/HamroSewa_Project">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Binod-Shrestha-Debug&repo=HamroSewa_Project&theme=tokyonight&hide_border=true" alt="HamroSewa Project"/>
 </a>
 
 </div>
@@ -207,6 +215,7 @@ To grow as a data professional by combining analytical thinking, technical skill
 </a>
 
 </div>
+
 
 ---
 
