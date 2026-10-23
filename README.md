@@ -168,16 +168,18 @@ A relational database project for organizing customer, product, and sales-order 
 </td>
 <td width="50%" valign="top">
 
-<h3>🎓 Student Management System</h3>
+<h3>🐍 Python Menu-Driven Student Management System</h3>
 
-<img src="https://img.shields.io/badge/PROJECT-Management-64748B?style=flat-square" alt="Student project"/>
+<img src="https://img.shields.io/badge/PYTHON-Beginner%20Project-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python project"/>
 
-A project focused on managing student information and practicing application development.
+A simple, menu-driven Python project designed to manage student names through an interactive terminal menu. Built to strengthen my understanding of Python fundamentals and practical programming.
 
 **Project focus**
-- Student records
-- Information management
-- Programming concepts
+- Add and view student records
+- Search for students by name
+- Remove student records
+- Count total students
+- Practice lists, loops, conditional statements, and user input
 
 <br/>
 
