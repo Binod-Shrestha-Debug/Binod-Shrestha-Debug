@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./assets/newbinodbanner.png" width="100%" alt="Binod Shrestha | Data Analyst"/>
+<img src="./assets/banner_binod.png" width="100%" alt="Binod Shrestha | Data Analyst"/>
 
 <br/><br/>
 
