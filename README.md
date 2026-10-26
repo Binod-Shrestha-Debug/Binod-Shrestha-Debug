@@ -116,7 +116,7 @@ Alongside my professional work, I build projects to practice technical concepts 
 </tr>
 <tr>
 <td>🐍 Python Libraries</td>
-<td>Pandas, NumPy, Matplotlib, Seaborn <em>(if used in your work or projects)</em></td>
+<td>Pandas, NumPy, Matplotlib, Seaborn</td>
 </tr>
 <tr>
 <td>📈 Reporting & Visualization</td>
@@ -124,7 +124,7 @@ Alongside my professional work, I build projects to practice technical concepts 
 </tr>
 <tr>
 <td>📑 Spreadsheets & BI</td>
-<td>Excel, PivotTables, Power BI <em>(if applicable)</em></td>
+<td>Excel, PivotTables, Power BI</td>
 </tr>
 <tr>
 <td>⚙️ Development Tools</td>
