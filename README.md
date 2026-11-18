@@ -87,6 +87,7 @@ Alongside my professional work, I build projects to practice technical concepts 
 
 ---
 
+
 ## 🛠️ Technical Skills
 
 <p>
@@ -95,7 +96,10 @@ Alongside my professional work, I build projects to practice technical concepts 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Business_Intelligence-2C3E50?style=for-the-badge&logo=powerbi&logoColor=white" alt="Business Intelligence"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
+
 
 <table>
 <tr>
