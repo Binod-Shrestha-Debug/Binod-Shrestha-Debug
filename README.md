@@ -88,6 +88,7 @@ Alongside my professional work, I build projects to practice technical concepts 
 ---
 
 
+
 ## 🛠️ Technical Skills
 
 <p>
@@ -98,8 +99,9 @@ Alongside my professional work, I build projects to practice technical concepts 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Business_Intelligence-2C3E50?style=for-the-badge&logo=powerbi&logoColor=white" alt="Business Intelligence"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Data_Science-2E8B57?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-8E44AD?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
 </p>
-
 
 <table>
 <tr>
@@ -116,11 +118,19 @@ Alongside my professional work, I build projects to practice technical concepts 
 </tr>
 <tr>
 <td>📊 Data Analysis</td>
-<td>Data exploration, filtering, sorting, grouping, aggregation, joins</td>
+<td>Data exploration, data cleaning, filtering, sorting, grouping, aggregation, joins</td>
+</tr>
+<tr>
+<td>🔬 Data Science</td>
+<td>Exploratory Data Analysis (EDA), statistical analysis, data preprocessing, feature analysis</td>
+</tr>
+<tr>
+<td>🤖 Machine Learning</td>
+<td>Machine learning fundamentals, supervised learning, unsupervised learning, model training, model evaluation</td>
 </tr>
 <tr>
 <td>🐍 Python Libraries</td>
-<td>Pandas, NumPy, Matplotlib, Seaborn</td>
+<td>Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn</td>
 </tr>
 <tr>
 <td>📈 Reporting & Visualization</td>
@@ -128,7 +138,7 @@ Alongside my professional work, I build projects to practice technical concepts 
 </tr>
 <tr>
 <td>📑 Spreadsheets & BI</td>
-<td>Excel, PivotTables, Power BI</td>
+<td>Excel, PivotTables, Power BI, Tableau</td>
 </tr>
 <tr>
 <td>⚙️ Development Tools</td>
@@ -139,6 +149,7 @@ Alongside my professional work, I build projects to practice technical concepts 
 <td>Analytical thinking, problem-solving, attention to detail, communication</td>
 </tr>
 </table>
+
 
 ---
 
