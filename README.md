@@ -410,7 +410,7 @@ I'm happy to connect with professionals and learners interested in data analytic
 
 <br/>
 
-<sub>Binod Shrestha · Data Analyst · Nepal 🇳🇵</sub>
+<sub>Binod Shrestha · Data Analyst · Nepal</sub>
 
 <br/><br/>
 
